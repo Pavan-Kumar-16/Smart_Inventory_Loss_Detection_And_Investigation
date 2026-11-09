@@ -222,6 +222,7 @@ into MySQL.
 
 The data-generation pipeline is run separately to create and load test
 data.
+<img width="1825" height="953" alt="Screenshot 2026-11-09 120826" src="https://github.com/user-attachments/assets/1d5c8590-ed20-48e0-9da7-207d5f64203e" />
 
 ## 6. Project Structure
 
@@ -734,39 +735,44 @@ them on GitHub.
 
 ### Dashboard
 
-![Dashboard screenshot](docs/screenshots/dashboard.png)
+<img width="1826" height="953" alt="Screenshot 2026-11-09 114721" src="https://github.com/user-attachments/assets/366f2569-910d-4026-b1fd-7d9a673ed07c" />
+
 
 ### Alerts
 
-![Alerts screenshot](docs/screenshots/alerts.png)
+<img width="1823" height="951" alt="Screenshot 2026-11-09 114736" src="https://github.com/user-attachments/assets/2c79cd2c-a162-4b36-b80c-bdc79efdec83" />
+
 
 ### Investigations
 
-![Investigations screenshot](docs/screenshots/investigations.png)
+<img width="1841" height="956" alt="Screenshot 2026-11-09 114747" src="https://github.com/user-attachments/assets/7f07c544-9303-412c-ba5a-a6d821b92e9c" />
+
 
 ### Analytics
 
-![Analytics screenshot](docs/screenshots/analytics.png)
+<img width="1841" height="956" alt="Screenshot 2026-11-09 114747" src="https://github.com/user-attachments/assets/3984af10-c0c2-40c6-9605-97bffe57ef71" />
+<img width="1822" height="953" alt="Screenshot 2026-11-09 120652" src="https://github.com/user-attachments/assets/dfa5e866-e0fa-45f8-bafb-45affc29af75" />
+<img width="1825" height="946" alt="Screenshot 2026-11-09 120705" src="https://github.com/user-attachments/assets/d2ff195b-42f9-4a81-abb2-f40d2cc21ffd" />
+
 
 ### Stores
 
-![Stores screenshot](docs/screenshots/stores.png)
+<img width="1827" height="957" alt="Screenshot 2026-11-09 120741" src="https://github.com/user-attachments/assets/e5cb43e0-3ca1-4a33-bf31-d4a0a2cd6d1e" />
+
 
 ### SKUs
+<img width="1825" height="953" alt="Screenshot 2026-11-09 120826" src="https://github.com/user-attachments/assets/92ddfb93-3e71-44d9-bf53-4d10d597525b" />
 
-![SKUs screenshot](docs/screenshots/skus.png)
 
 ### Employees
+<img width="1820" height="947" alt="Screenshot 2026-11-09 120846" src="https://github.com/user-attachments/assets/62a9acdc-732f-4e1d-a220-7aaeaae662ec" />
 
-![Employees screenshot](docs/screenshots/employees.png)
+
 
 ### Settings
 
-![Settings screenshot](docs/screenshots/settings.png)
+<img width="1823" height="947" alt="Screenshot 2026-11-09 121233" src="https://github.com/user-attachments/assets/271581f1-e1e7-4af4-835a-3ad8f1db9815" />
 
-Replace or remove any screenshot reference for which an actual
-screenshot has not been added. Screenshots should represent the final
-application and must not contain credentials or sensitive information.
 
 ## 15. AI-Assisted Development Disclosure
 
