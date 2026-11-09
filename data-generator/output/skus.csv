@@ -1,0 +1,101 @@
+sku_id,product_name,category,unit,status
+SKU-000001,Rice Product 0001,Grocery,LITRE,ACTIVE
+SKU-000002,Soap Product 0002,Personal Care,LITRE,ACTIVE
+SKU-000003,Keyboard Product 0003,Electronics,PCS,ACTIVE
+SKU-000004,Container Product 0004,Household,PACK,ACTIVE
+SKU-000005,Juice Product 0005,Beverages,KG,ACTIVE
+SKU-000006,Rice Product 0006,Grocery,PACK,ACTIVE
+SKU-000007,Toothpaste Product 0007,Personal Care,PCS,ACTIVE
+SKU-000008,Mouse Product 0008,Electronics,KG,ACTIVE
+SKU-000009,Detergent Product 0009,Household,KG,ACTIVE
+SKU-000010,Coffee Product 0010,Beverages,KG,ACTIVE
+SKU-000011,Rice Product 0011,Grocery,KG,ACTIVE
+SKU-000012,Lotion Product 0012,Personal Care,PCS,ACTIVE
+SKU-000013,Headphones Product 0013,Electronics,PCS,ACTIVE
+SKU-000014,Cleaner Product 0014,Household,LITRE,ACTIVE
+SKU-000015,Tea Product 0015,Beverages,PCS,ACTIVE
+SKU-000016,Rice Product 0016,Grocery,PACK,ACTIVE
+SKU-000017,Shampoo Product 0017,Personal Care,KG,ACTIVE
+SKU-000018,Charger Product 0018,Electronics,PACK,ACTIVE
+SKU-000019,Tissue Product 0019,Household,LITRE,ACTIVE
+SKU-000020,Water Product 0020,Beverages,PACK,ACTIVE
+SKU-000021,Rice Product 0021,Grocery,LITRE,ACTIVE
+SKU-000022,Soap Product 0022,Personal Care,LITRE,ACTIVE
+SKU-000023,Keyboard Product 0023,Electronics,PCS,ACTIVE
+SKU-000024,Container Product 0024,Household,PACK,ACTIVE
+SKU-000025,Juice Product 0025,Beverages,LITRE,ACTIVE
+SKU-000026,Rice Product 0026,Grocery,PCS,ACTIVE
+SKU-000027,Toothpaste Product 0027,Personal Care,LITRE,ACTIVE
+SKU-000028,Mouse Product 0028,Electronics,PACK,ACTIVE
+SKU-000029,Detergent Product 0029,Household,PCS,ACTIVE
+SKU-000030,Coffee Product 0030,Beverages,KG,ACTIVE
+SKU-000031,Rice Product 0031,Grocery,KG,ACTIVE
+SKU-000032,Lotion Product 0032,Personal Care,KG,ACTIVE
+SKU-000033,Headphones Product 0033,Electronics,LITRE,ACTIVE
+SKU-000034,Cleaner Product 0034,Household,LITRE,ACTIVE
+SKU-000035,Tea Product 0035,Beverages,LITRE,ACTIVE
+SKU-000036,Rice Product 0036,Grocery,KG,ACTIVE
+SKU-000037,Shampoo Product 0037,Personal Care,PCS,ACTIVE
+SKU-000038,Charger Product 0038,Electronics,KG,ACTIVE
+SKU-000039,Tissue Product 0039,Household,PCS,ACTIVE
+SKU-000040,Water Product 0040,Beverages,PACK,ACTIVE
+SKU-000041,Rice Product 0041,Grocery,PACK,ACTIVE
+SKU-000042,Soap Product 0042,Personal Care,LITRE,ACTIVE
+SKU-000043,Keyboard Product 0043,Electronics,KG,ACTIVE
+SKU-000044,Container Product 0044,Household,PCS,ACTIVE
+SKU-000045,Juice Product 0045,Beverages,LITRE,ACTIVE
+SKU-000046,Rice Product 0046,Grocery,KG,ACTIVE
+SKU-000047,Toothpaste Product 0047,Personal Care,PCS,ACTIVE
+SKU-000048,Mouse Product 0048,Electronics,LITRE,ACTIVE
+SKU-000049,Detergent Product 0049,Household,KG,ACTIVE
+SKU-000050,Coffee Product 0050,Beverages,LITRE,ACTIVE
+SKU-000051,Rice Product 0051,Grocery,LITRE,ACTIVE
+SKU-000052,Lotion Product 0052,Personal Care,KG,ACTIVE
+SKU-000053,Headphones Product 0053,Electronics,PCS,ACTIVE
+SKU-000054,Cleaner Product 0054,Household,PACK,ACTIVE
+SKU-000055,Tea Product 0055,Beverages,PCS,ACTIVE
+SKU-000056,Rice Product 0056,Grocery,LITRE,ACTIVE
+SKU-000057,Shampoo Product 0057,Personal Care,LITRE,ACTIVE
+SKU-000058,Charger Product 0058,Electronics,KG,ACTIVE
+SKU-000059,Tissue Product 0059,Household,LITRE,ACTIVE
+SKU-000060,Water Product 0060,Beverages,LITRE,ACTIVE
+SKU-000061,Rice Product 0061,Grocery,KG,ACTIVE
+SKU-000062,Soap Product 0062,Personal Care,LITRE,ACTIVE
+SKU-000063,Keyboard Product 0063,Electronics,KG,ACTIVE
+SKU-000064,Container Product 0064,Household,PCS,ACTIVE
+SKU-000065,Juice Product 0065,Beverages,LITRE,ACTIVE
+SKU-000066,Rice Product 0066,Grocery,PACK,ACTIVE
+SKU-000067,Toothpaste Product 0067,Personal Care,PACK,ACTIVE
+SKU-000068,Mouse Product 0068,Electronics,PCS,ACTIVE
+SKU-000069,Detergent Product 0069,Household,LITRE,ACTIVE
+SKU-000070,Coffee Product 0070,Beverages,LITRE,ACTIVE
+SKU-000071,Rice Product 0071,Grocery,PACK,ACTIVE
+SKU-000072,Lotion Product 0072,Personal Care,PACK,ACTIVE
+SKU-000073,Headphones Product 0073,Electronics,PCS,ACTIVE
+SKU-000074,Cleaner Product 0074,Household,KG,ACTIVE
+SKU-000075,Tea Product 0075,Beverages,PACK,ACTIVE
+SKU-000076,Rice Product 0076,Grocery,KG,ACTIVE
+SKU-000077,Shampoo Product 0077,Personal Care,KG,ACTIVE
+SKU-000078,Charger Product 0078,Electronics,KG,ACTIVE
+SKU-000079,Tissue Product 0079,Household,PCS,ACTIVE
+SKU-000080,Water Product 0080,Beverages,KG,ACTIVE
+SKU-000081,Rice Product 0081,Grocery,PACK,ACTIVE
+SKU-000082,Soap Product 0082,Personal Care,KG,ACTIVE
+SKU-000083,Keyboard Product 0083,Electronics,KG,ACTIVE
+SKU-000084,Container Product 0084,Household,PCS,ACTIVE
+SKU-000085,Juice Product 0085,Beverages,PACK,ACTIVE
+SKU-000086,Rice Product 0086,Grocery,PACK,ACTIVE
+SKU-000087,Toothpaste Product 0087,Personal Care,KG,ACTIVE
+SKU-000088,Mouse Product 0088,Electronics,LITRE,ACTIVE
+SKU-000089,Detergent Product 0089,Household,PACK,ACTIVE
+SKU-000090,Coffee Product 0090,Beverages,PACK,ACTIVE
+SKU-000091,Rice Product 0091,Grocery,PCS,ACTIVE
+SKU-000092,Lotion Product 0092,Personal Care,KG,ACTIVE
+SKU-000093,Headphones Product 0093,Electronics,PCS,ACTIVE
+SKU-000094,Cleaner Product 0094,Household,LITRE,ACTIVE
+SKU-000095,Tea Product 0095,Beverages,LITRE,ACTIVE
+SKU-000096,Rice Product 0096,Grocery,KG,ACTIVE
+SKU-000097,Shampoo Product 0097,Personal Care,PCS,ACTIVE
+SKU-000098,Charger Product 0098,Electronics,PCS,ACTIVE
+SKU-000099,Tissue Product 0099,Household,LITRE,ACTIVE
+SKU-000100,Water Product 0100,Beverages,LITRE,ACTIVE

@@ -1,0 +1,5 @@
+anomaly_id,entity_type,record_id,anomaly_type,expected_decision,details
+ANOM-000001,INVENTORY_MOVEMENT,MOV-2026-00000401,WRONG_STORE,FLAG,Original store: STORE-000002; incorrect store: STORE-000001
+ANOM-000002,INVENTORY_MOVEMENT,MOV-2026-00000404,MISSING_ADJUSTMENT_REASON,FLAG,Adjustment has no recorded reason.
+ANOM-000003,CYCLE_COUNT,CNT-2026-000001,COUNT_TIMESTAMP_INCONSISTENCY,FLAG,"Recorded expected quantity includes movement MOV-2026-00005254, which occurred after the modified count timestamp."
+ANOM-000004,TRANSFER_GROUP,TRF-2026-000001,TRANSFER_DOUBLE_COUNT_RISK,DO_NOT_DOUBLE_COUNT,Both transfer legs belong to one transaction. Reconcile the pair instead of counting both as losses.

@@ -1,0 +1,5 @@
+anomaly_id,anomaly_type,record_id,expected,actual,result,details
+ANOM-000001,WRONG_STORE,MOV-2026-00000401,FLAG,FLAG,PASS,Movement store STORE-000001 differs from employee shift store STORE-000002
+ANOM-000002,MISSING_ADJUSTMENT_REASON,MOV-2026-00000404,FLAG,FLAG,PASS,Adjustment has no recorded reason
+ANOM-000003,COUNT_TIMESTAMP_INCONSISTENCY,CNT-2026-000001,FLAG,FLAG,PASS,Recorded expected stock: 0.0; reconstructed stock at count time: 9.0
+ANOM-000004,TRANSFER_DOUBLE_COUNT_RISK,TRF-2026-000001,DO_NOT_DOUBLE_COUNT,DO_NOT_DOUBLE_COUNT,PASS,Matching outgoing and incoming legs represent one transfer transaction

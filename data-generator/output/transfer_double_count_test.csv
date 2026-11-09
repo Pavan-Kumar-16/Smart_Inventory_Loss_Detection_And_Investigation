@@ -1,0 +1,3 @@
+transfer_group_id,movement_id,store_id,movement_type,quantity,simulated_naive_shrinkage
+TRF-2026-000001,MOV-2026-00000405,STORE-000002,TRANSFER_OUT,4,4
+TRF-2026-000001,MOV-2026-00000406,STORE-000008,TRANSFER_IN,4,4
