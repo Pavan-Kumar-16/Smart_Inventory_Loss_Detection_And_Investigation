@@ -750,7 +750,6 @@ them on GitHub.
 
 ### Analytics
 
-<img width="1841" height="956" alt="Screenshot 2026-11-09 114747" src="https://github.com/user-attachments/assets/3984af10-c0c2-40c6-9605-97bffe57ef71" />
 <img width="1822" height="953" alt="Screenshot 2026-11-09 120652" src="https://github.com/user-attachments/assets/dfa5e866-e0fa-45f8-bafb-45affc29af75" />
 <img width="1825" height="946" alt="Screenshot 2026-11-09 120705" src="https://github.com/user-attachments/assets/d2ff195b-42f9-4a81-abb2-f40d2cc21ffd" />
 
