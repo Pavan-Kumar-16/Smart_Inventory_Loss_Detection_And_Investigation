@@ -220,7 +220,7 @@ into MySQL.
 
 The data-generation pipeline is run separately to create and load test
 data.
-<img width="1825" height="953" alt="Screenshot 2026-11-09 120826" src="https://github.com/user-attachments/assets/1d5c8590-ed20-48e0-9da7-207d5f64203e" />
+
 
 ## 6. Project Structure
 
