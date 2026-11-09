@@ -29,8 +29,6 @@
     Trade-offs](#16-design-decisions-and-trade-offs)
 -   [17. Known Limitations](#17-known-limitations)
 -   [18. Future Improvements](#18-future-improvements)
--   [19. YottaFlex Submission
-    Checklist](#19-yottaflex-submission-checklist)
 
 ------------------------------------------------------------------------
 
